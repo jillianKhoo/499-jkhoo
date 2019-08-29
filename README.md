@@ -1,4 +1,4 @@
-# Jillian Khoo - jkhoo@usc.edu
+# Jillian Khoo - jkhoo@usc.edu - Spring 2019
 
 ## Installation
 ### Initial Setup:
